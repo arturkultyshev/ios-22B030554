@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var leftDiceImageView: UIImageView!
     @IBOutlet weak var rightDiceImageView: UIImageView!
 
-    private let diceImages = ["DiceOne","DiceTwo","DiceThree","DiceFour","DiceFive","DiceSic"]
+    private let diceImages = ["DiceOne","DiceTwo","DiceThree","DiceFour","DiceFive","DiceSix"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
